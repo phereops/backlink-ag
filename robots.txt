@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://backlink-ag-network.onrender.com/sitemap.xml
